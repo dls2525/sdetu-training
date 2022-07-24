@@ -11,6 +11,11 @@ public class Helloworld {
 
     System.out.println( z +" + x ");
     System.out.println("adding code to github source-x");
+    x = 1
+	    while(x < 10) {
+		    System.out.printn(" This is the value of "  +  x);
+		    x++
+		    }
 	
 	
 }
