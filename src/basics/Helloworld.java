@@ -1,11 +1,16 @@
 package basics;
 
+import java.nio.file.FileSystemNotFoundException;
+
 public class Helloworld {
 	public static void main(String[]args) {
 		
-	//create a variable
-		//compute annual salary
-		// rate = 
+	System.out.println("Hola Mundo");
+	int  x = 8;
+	int z = 100 * x;
 
+    System.out.println( z +" + x ");
+	
+	
 }
 }
