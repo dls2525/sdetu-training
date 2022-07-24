@@ -10,7 +10,7 @@ public class Helloworld {
 	int z = 100 * x;
 
     System.out.println( z +" + x ");
-    System.out.println("adding code to github source");
+    System.out.println("adding code to github source-x");
 	
 	
 }
